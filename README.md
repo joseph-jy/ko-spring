@@ -14,6 +14,10 @@
 ├── 📂 src/test/kotlin
 └── 📂 src/test/resources
 ```
+## 프로젝트 관련 설명
+### Data Structures
+![Notes ERD](/.eraser/2ia713Hg8ucw2zbHJfce___dEWHGXMyCJfB5L3HflF7Y3ntvWl2___---figure---uITXqoquV_HylSddOXqqp---figure---XCp9-UqkTbTlbrOQx40l-w.png "Notes ERD")
+
 ## 사용라이브러리
 ### Spring 관련
 - Spring Data JPA
